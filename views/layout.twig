@@ -1,0 +1,23 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+        {% block head %}
+          <link rel='stylesheet' href='/stylesheets/style.css' />
+        {% endblock %}
+    </head>
+    <body>
+         <div id="color">
+            {% block color %}
+              
+              <h1 class="important"> Temperature of {{city|capitalize}}</h1>
+              <p class="important"> High = {{temperature1}}   and Low = {{temperature2}}</p>
+             
+            {% endblock %}         
+         </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+        <script>src="/javascripts/API.js"</script
+        
+    </body>
+</html>  
+
+

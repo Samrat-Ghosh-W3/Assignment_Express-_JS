@@ -1,0 +1,97 @@
+
+[
+    {
+       
+        "city": "dhaka",
+        "temperature1": "29°C",
+        "temperature2": "18°C"
+    },
+    {
+       
+        "city": "khulna",
+        "temperature1": "27°C",
+        "temperature2": "15°C"
+    },
+    {
+        "city": "sylhet",
+        "temperature1": "31°C",
+        "temperature2": "14°C"
+    },
+    {
+        "city": "rangpur",
+        "temperature1": "29°C",
+        "temperature2": "13°C"
+    },
+    {
+        "city": "rajshahi",
+        "temperature1": "34°C",
+        "temperature2": "23°C"
+    },
+    {
+        "city": "jessore",
+        "temperature1": "32°C",
+        "temperature2": "21°C"
+    },
+    {
+        "city": "chittagong",
+        "temperature1": "36°C",
+        "temperature2": "22°C"
+    },
+    {
+        "city": "noakhali",
+        "temperature1": "35°C",
+        "temperature2": "20°C"
+    },
+    {
+        "city": "barisal",
+        "temperature1": "31°C",
+        "temperature2": "18°C"
+    },
+    {
+        "city": "bogura",
+        "temperature1": "30°C",
+        "temperature2": "19°C"
+    },
+    {
+        "city": "norail",
+        "temperature1": "34°C",
+        "temperature2": "20°C"
+    },
+    {
+        "city": "kushtia",
+        "temperature1": "27°C",
+        "temperature2": "19°C"
+    },
+    {
+        "city": "bagerhat",
+        "temperature1": "29°C",
+        "temperature2": "16°C"
+    },
+    {
+        "city": "comilla",
+        "temperature1": "27°C",
+        "temperature2": "14°C"
+    },
+    {
+        "city": "dinajpur",
+        "temperature1": "29°C",
+        "temperature2": "17°C"
+    },
+    {
+        "city": "lalmonirhat",
+        "temperature1": "33°C",
+        "temperature2": "21°C"
+    },
+    {
+        "city": "satkhira",
+        "temperature1": "31°C",
+        "temperature2": "17°C"
+    },
+    {
+        "city": "magura",
+        "temperature1": "28°C",
+        "temperature2": "14°C"
+    }
+
+    
+]
